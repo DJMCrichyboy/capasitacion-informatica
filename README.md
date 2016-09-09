@@ -1,2 +1,4 @@
-# capasitacion-informatica
-python school 
+# capacitacion-informatica
+Ricardo Morales
+Grupo 5to B
+Centro Educativo Patria 
