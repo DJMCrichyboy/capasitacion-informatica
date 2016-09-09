@@ -1,0 +1,2 @@
+# capasitacion-informatica
+python school 
